@@ -4,6 +4,6 @@ Hi! I messed up the first couple files I added the first week of class so here i
   - July 7, 2020: Question 3 Code Response 1.py
   - July 8, 2020: RESPONSE 2 CODE .py
 ### Exercises at the End of Video Code
-  - July 7,2020 Video 1: exercise_1_house_prices_question.py
-  - July 8,2020 Video 2: exercise2_question (2).py
+  - July 7, 2020 Video 1: exercise_1_house_prices_question.py
+  - July 8, 2020 Video 2: exercise2_question (2).py
 
