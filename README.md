@@ -14,5 +14,5 @@ Hi! I messed up the first couple files I added the first week of class so here i
   - July 14, 2020: Exercise 3 Video.py
   - July 15, 2020 Video 5: exercise_4_question (1).py 
 ###
-Project 3: cnn.py & dnn_best.py & dnn_models_failed.py
+  - Project 3: cnn.py & dnn_best.py & dnn_models_failed.py
 
